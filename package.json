@@ -37,7 +37,7 @@
     "react-timer-hook": "^2.0.2",
     "react-transition-group": "latest",
     "typeface-roboto": "0.0.75",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
